@@ -1,0 +1,65 @@
+{
+    "Fashion Accessories": {
+        "Women's Jewellery": "//www.lazada.com.my/shop-womens-jewellery?spm=a2o4k.searchlistcategory.cate_10.9.385494bfuWgiS6",
+        "Women's Watches": "//www.lazada.com.my/shop-womens-watches?spm=a2o4k.searchlistcategory.cate_10.1.385494bfuWgiS6",
+        "Contact Lens": "//www.lazada.com.my/shop-eye-care?spm=a2o4k.searchlistcategory.cate_10.6.385494bfuWgiS6",
+        "Eyeglasses": "//www.lazada.com.my/shop-eyeglasses?spm=a2o4k.searchlistcategory.cate_10.5.385494bfuWgiS6",
+        "Men's Jewellery": "//www.lazada.com.my/shop-mens-jewellery?spm=a2o4k.searchlistcategory.cate_10.8.385494bfuWgiS6",
+        "Men's Watches": "//www.lazada.com.my/shop-mens-watches?spm=a2o4k.searchlistcategory.cate_10.2.385494bfuWgiS6",
+        "Kids' Watches": "//www.lazada.com.my/shop-kids-watches?spm=a2o4k.searchlistcategory.cate_10.3.385494bfuWgiS6",
+        "Eyewear Accessories": "//www.lazada.com.my/shop-eyewear-cases?spm=a2o4k.searchlistcategory.cate_10.7.385494bfuWgiS6",
+        "Sunglasses": "//www.lazada.com.my/shop-sunglasses?spm=a2o4k.searchlistcategory.cate_10.4.385494bfuWgiS6"
+    },
+    "Women": {
+        "Jackets & Coats": "//www.lazada.com.my/shop-women-jackets-coats",
+        "Hoodies & Sweatshirts": "//www.lazada.com.my/shop-womens-hoodies-sweatshirts",
+        "Skirts": "//www.lazada.com.my/shop-women-skirts",
+        "Accessories": "//www.lazada.com.my/shop-women-accessories?spm=a2o4k.searchlistcategory.cate_8.4.4bf0b18do8jSGV",
+        "Girls' Clothing": "//www.lazada.com.my/fashion-girls-clothing?spm=a2o4k.searchlistcategory.cate_8.7.4bf0b18do8jSGV",
+        "Shoes": "//www.lazada.com.my/shop-womens-shoes?spm=a2o4k.searchlistcategory.cate_8.2.4bf0b18do8jSGV",
+        "Kids' Bags": "//www.lazada.com.my/shop-kids-bag?spm=a2o4k.searchlistcategory.cate_8.10.4bf0b18do8jSGV",
+        "Pants & Leggings": "//www.lazada.com.my/shop-womens-clothing-pants",
+        "Girls' Accessories": "//www.lazada.com.my/fashion-girls-accessories?spm=a2o4k.searchlistcategory.cate_8.9.4bf0b18do8jSGV",
+        "Tops": "//www.lazada.com.my/shop-clothing-t-shirts-tops",
+        "Girls' Shoes": "//www.lazada.com.my/girls-shoes?spm=a2o4k.searchlistcategory.cate_8.8.4bf0b18do8jSGV",
+        "Socks & Tights": "//www.lazada.com.my/socks-tights",
+        "Muslim Wear": "//www.lazada.com.my/shop-women-muslim-wear?spm=a2o4k.searchlistcategory.cate_8.6.4bf0b18do8jSGV",
+        "Dresses": "//www.lazada.com.my/shop-women-dresses",
+        "Sweaters & Cardigans": "//www.lazada.com.my/shop-women-sweaters-cardigans",
+        "Clothing": "//www.lazada.com.my/shop-women-clothing?spm=a2o4k.searchlistcategory.cate_8.1.4bf0b18do8jSGV",
+        "Bags": "//www.lazada.com.my/shop-women-bags?spm=a2o4k.searchlistcategory.cate_8.3.4bf0b18do8jSGV",
+        "Jeans": "//www.lazada.com.my/shop-women-jeans",
+        "Lingerie, Sleep & Lounge": "//www.lazada.com.my/shop-women-lingerie-nightwear?spm=a2o4k.searchlistcategory.cate_8.5.4bf0b18do8jSGV",
+        "Shorts": "//www.lazada.com.my/shop-womens-shorts-pants"
+    },
+    "Men(Fashion)": {
+        "Muslim Wear": "//www.lazada.com.my/shop-men-muslim-wear",
+        "Accessories": "//www.lazada.com.my/shop-men-accessories",
+        "Boys' Accessories": "//www.lazada.com.my/fashion-boys-accessories",
+        "Shoes": "//www.lazada.com.my/shop-mens-shoes",
+        "Ethnic Wear": "//www.lazada.com.my/men-ethnic-wear",
+        "Kids' Bags": "//www.lazada.com.my/shop-kids-bag",
+        "Bags": "//www.lazada.com.my/shop-men-bags",
+        "Clothing": "//www.lazada.com.my/shop-men-clothing",
+        "Boys' Clothing": "//www.lazada.com.my/fashion-boys-clothing",
+        "Boys' Shoes": "//www.lazada.com.my/boys-shoes"
+    },
+    "Travel": {
+        "Travel Bags": "//www.lazada.com.my/shop-men-weekender-bags",
+        "Laptop Bags": "//www.lazada.com.my/shop-laptop-bags-cases",
+        "Luggage": "//www.lazada.com.my/shop-travel-luggage",
+        "Travel Accessories": "//www.lazada.com.my/travel-accessories"
+    },
+    "Home and Lifestyle": {
+        "Towel Rails & Warmers": "//www.lazada.com.my/shop-towel-rails-warmers",
+        "Bathrobes": "//www.lazada.com.my/shop-bathrobes",
+        "Bathroom Counter Storage": "//www.lazada.com.my/shop-bathroom-organizer-storage",
+        "Shower Caddies & Hangers": "//www.lazada.com.my/shop-shower-holders-hangers",
+        "Bath Mats": "//www.lazada.com.my/shop-bath-mat",
+        "Shower Curtains": "//www.lazada.com.my/shop-shower-curtains",
+        "Bathroom Shelving": "//www.lazada.com.my/shop-bathroom-shelves-1",
+        "Bathroom Mirrors": "//www.lazada.com.my/shop-bathroom-mirrors",
+        "Bath Towels": "//www.lazada.com.my/shop-bath-towel",
+        "Bathroom Scales": "//www.lazada.com.my/shop-bathroom-scales"
+    }
+}
